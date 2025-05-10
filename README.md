@@ -1,0 +1,1 @@
+A simple, clean, and responsive personal resume webpage built using HTML. The webpage highlights key personal information, skills, and contact details, designed to provide a professional online presence. Demonstrates proficiency in HTML structuring and semantic elements.
